@@ -1,2 +1,2 @@
 # dedemo
-DE Basic Demo Workshop
+A basic Demo for data engineering pipeline in Snowflake. 
